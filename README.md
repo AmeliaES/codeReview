@@ -1,8 +1,10 @@
 #CodeReviewWorkshop
 
 Objectives:
-  - Learn how can be achieved in 
-  - Practice reviewing  in 
+  - Learn how code review can be achieved in academia
+  - Practice reviewing R or Python code in pairs/small groups
 
 Requirements:
-  - Familiar with writing code 
+  - Student or staff at University of Edinburgh
+  - Familiar with writing code in R or Python
+  - All levels of coding experience welcome
